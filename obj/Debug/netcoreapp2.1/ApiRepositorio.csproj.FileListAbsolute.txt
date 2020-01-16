@@ -1,0 +1,6 @@
+C:\Projeto API Take\ApiRepositorio\obj\Debug\netcoreapp2.1\ApiRepositorio.csprojAssemblyReference.cache
+C:\Projeto API Take\ApiRepositorio\obj\Debug\netcoreapp2.1\ApiRepositorio.csproj.CoreCompileInputs.cache
+C:\Projeto API Take\ApiRepositorio\obj\Debug\netcoreapp2.1\ApiRepositorio.RazorAssemblyInfo.cache
+C:\Projeto API Take\ApiRepositorio\obj\Debug\netcoreapp2.1\ApiRepositorio.RazorAssemblyInfo.cs
+C:\Projeto API Take\ApiRepositorio\obj\Debug\netcoreapp2.1\ApiRepositorio.AssemblyInfoInputs.cache
+C:\Projeto API Take\ApiRepositorio\obj\Debug\netcoreapp2.1\ApiRepositorio.AssemblyInfo.cs
